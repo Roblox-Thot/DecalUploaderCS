@@ -1,2 +1,1 @@
-# DecalUploaderCS
-An attempt to make a C# decal uploader
+# no guarantee this will ever come out
